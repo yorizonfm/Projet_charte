@@ -6,20 +6,36 @@
 }
 nav a{
     color:black;
+    font-family: fantasy;
     text-decoration: none;
 }
 nav a:hover{
     background-color: gray;
 }
-.color{
+section{
+    float:right;
+}
+.theme{
     display:inline;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:white;
+    font-family: fantasy;
+}
+#txttheme{
+    
+    background-color: black;
+}
+#theme{
+    float:right;
+    margin-right:10px;
+    
 }
 a{
     color:white;
+    font-family: fantasy;
 }
 p{
     color:white;
+    font-family: fantasy;
 }
 .chartecomplete:hover:before{
     content:">>";
@@ -29,13 +45,17 @@ body{
 }
 h1{
     color: white;
+    font-family: fantasy;
 }
 h1:hover{
     color:red;
+    font-family: fantasy;
 }
 li{
     color: white;
+    font-family: fantasy;
 }
 div{
     color: white;
+    font-family: fantasy;
 }
