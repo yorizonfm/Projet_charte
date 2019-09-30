@@ -1,0 +1,41 @@
+.nav{
+    display:inline;
+    background-color: black;
+    margin-right: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav a{
+    color:white;
+    text-decoration: none;
+}
+nav a:hover{
+    background-color: gray;
+}
+.color{
+    display:inline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    color:black;
+}
+p{
+    color:black;
+}
+.chartecomplete:hover:before{
+    content:">>";
+}
+body{
+    background-color: white;
+}
+h1{
+    color: black;
+}
+h1:hover{
+    color:red;
+}
+li{
+    color: black;
+}
+div{
+    color: black;
+}
