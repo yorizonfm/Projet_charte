@@ -6,13 +6,16 @@
 }
 nav a{
     color:black;
+    text-decoration: none;
 }
 nav a:hover{
     background-color: gray;
 }
 a{
-    text-decoration: none;
-    color:blue;
+    color:white;
+}
+.chartecomplete:hover:before{
+    content:">>";
 }
 body{
     background-color: black;
