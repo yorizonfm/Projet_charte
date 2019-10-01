@@ -1,3 +1,6 @@
+body{
+    background-color: black;
+}
 .nav{
     display:inline;
     background-color: white;
@@ -12,22 +15,24 @@ nav a{
 nav a:hover{
     background-color: gray;
 }
-section{
-    float:right;
+li{
+    color: white;
+    font-family: fantasy;
 }
 .theme{
     display:inline;
     background-color:white;
     font-family: fantasy;
 }
-#txttheme{
-    
+#txttheme{  
     background-color: black;
 }
 #theme{
     float:right;
     margin-right:10px;
-    
+}
+section{
+    float:right;
 }
 a{
     color:white;
@@ -40,19 +45,12 @@ p{
 .chartecomplete:hover:before{
     content:">>";
 }
-body{
-    background-color: black;
-}
 h1{
     color: white;
     font-family: fantasy;
 }
 h1:hover{
     color:red;
-    font-family: fantasy;
-}
-li{
-    color: white;
     font-family: fantasy;
 }
 div{
