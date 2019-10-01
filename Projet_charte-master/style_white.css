@@ -1,0 +1,59 @@
+body{
+    background-color: white;
+}
+.nav{
+    display:inline;
+    background-color: black;
+    margin-right: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav a{
+    color:white;
+    font-family: fantasy;
+    text-decoration: none;
+}
+nav a:hover{
+    background-color: gray;
+}
+li{
+    color: black;
+    font-family: fantasy;
+}
+.theme{
+    display:inline;
+    background-color:black;
+    font-family: fantasy;
+}
+#txttheme{  
+    background-color: white;
+}
+#theme{
+    float:right;
+    margin-right:10px;
+}
+section{
+    float:right;
+}
+a{
+    color:black;
+    font-family: fantasy;
+}
+p{
+    color:black;
+    font-family: fantasy;
+}
+.chartecomplete:hover:before{
+    content:">>";
+}
+h1{
+    color: black;
+    font-family: fantasy;
+}
+h1:hover{
+    color:red;
+    font-family: fantasy;
+}
+div{
+    color: black;
+    font-family: fantasy;
+}
